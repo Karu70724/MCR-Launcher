@@ -13,7 +13,7 @@
       "description": "제 2의 현실, 수성 온라인",
       "icon": null,
       "version": "1.0.0",
-      "address": "mcronline.r-e.kr:25565",
+      "address": "mcronline.kro.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
